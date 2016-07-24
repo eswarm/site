@@ -1,0 +1,29 @@
+title: Android Studio stuck on “Gradle: resolve dependancies'
+---
+author: Eswar Malla
+---
+body:
+
+* Check all the dependencies, whether they are valid or not.
+
+* Or for a temporary fix, try offline mode.
+
+> To enable this setting go to:
+> Preferences -> Gradle
+> In the right side options go down to "Global Gradle Settings" and check the "Offline work" box.
+
+* Build from the command line to know the exact source of the problem
+
+ In windows
+
+ > gradlew.bat assembleDebug
+
+ In linux
+
+>  chmod +x gradlew
+> ./gradlew assembleDebug
+
+* If nothing works, You can also try to delete all contents of folder C:\Users\<Username>\.gradle
+
+---
+pub_date: 2016-04-08

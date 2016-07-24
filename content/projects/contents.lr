@@ -2,8 +2,19 @@ title: Projects
 ---
 body:
 
-This is a list of the projects:
+focustrack.in
 
-* Project 1
-* Project 2
-* Project 3
+Focustrack.in is a productivity app that helps you keep track of the time spent with your devices.
+Android App available Windows desktop app coming soon. Visit focustrack.in for more details
+
+Somabot
+
+An automatic bartender built using libmraa, you can use it on your raspberry PI, beaglebone, Intel Galileo/Edison More details here
+
+materialistic-pelican
+
+A theme based on Material Design Lite(from Google) for Pelican based sites.
+
+AutoSortD
+
+Automatically sort your directories.(Work in progress)
