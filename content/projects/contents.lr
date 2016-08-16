@@ -2,19 +2,27 @@ title: Projects
 ---
 body:
 
-focustrack.in
+## focustrack.in
 
 Focustrack.in is a productivity app that helps you keep track of the time spent with your devices.
 Android App available Windows desktop app coming soon. Visit focustrack.in for more details
 
-Somabot
+## Somabot
 
 An automatic bartender built using libmraa, you can use it on your raspberry PI, beaglebone, Intel Galileo/Edison More details here
 
-materialistic-pelican
+## materialistic-pelican
 
 A theme based on Material Design Lite(from Google) for Pelican based sites.
 
-AutoSortD
+## Debug Purge
+
+Debug Purge, enables you to easily remove all the debug apps installed on your mobile during development.
+
+Play store link : https://play.google.com/store/apps/details?id=in.eswarm.debugpurge
+
+Source : https://github.com/eswarm/DebugPurge
+
+## AutoSortD
 
 Automatically sort your directories.(Work in progress)
