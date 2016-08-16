@@ -4,4 +4,4 @@ install: "pip install Lektor"
 script: "lektor build -f webpack"
 deploy:
   provider: script
-  script: "lektor deploy ghpages"
+  script: "lektor build && lektor deploy ghpages"
