@@ -2,18 +2,23 @@ title: Projects
 ---
 body:
 
+### These are some of my personal projects. 
+
 ## focustrack.in
 
 Focustrack.in is a productivity app that helps you keep track of the time spent with your devices.
-Android App available Windows desktop app coming soon. Visit focustrack.in for more details
+Android App available Windows desktop app coming soon. 
+
+The play store link can be found here. 
+https://play.google.com/store/apps/details?id=in.focustrack.stock
+
+Visit http://focustrack.in/ for more details and updates 
 
 ## Somabot
 
-An automatic bartender built using libmraa, you can use it on your raspberry PI, beaglebone, Intel Galileo/Edison More details here
+An automatic bartender built using libmraa, you can use it on your raspberry PI, beaglebone, Intel Galileo/Edison 
 
-## materialistic-pelican
-
-A theme based on Material Design Lite(from Google) for Pelican based sites.
+Source : https://github.com/eswarm/somabot
 
 ## Debug Purge
 
@@ -23,6 +28,22 @@ Play store link : https://play.google.com/store/apps/details?id=in.eswarm.debugp
 
 Source : https://github.com/eswarm/DebugPurge
 
+## Piktor 
+
+A simple and elegant theme for using with Lektor, a static site generator. 
+
+The theme this site is based on. 
+
+Source : https://github.com/eswarm/Piktor 
+
+## materialistic-pelican
+
+A theme based on Material Design Lite(from Google) for Pelican based sites.
+
+ Source : https://github.com/eswarm/materialistic-pelican
+
 ## AutoSortD
 
 Automatically sort your directories.(Work in progress)
+
+Source : https://github.com/eswarm/AutoSortD
