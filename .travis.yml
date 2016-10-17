@@ -1,7 +1,7 @@
 language: python
 python: 2.7
 install: "pip install git+https://github.com/lektor/lektor.git"
-script: "lektor clean && lektor build -f webpack"
+script: "lektor clean --yes && lektor build -f webpack"
 deploy:
   provider: script
   script: "lektor build && lektor deploy ghpages"
