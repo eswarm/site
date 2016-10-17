@@ -5,7 +5,7 @@ Lektor, static site generator meets CMS
 body:
 
 
-Static sites have grown in popularity off late and for a good reason. They are fast, pose no security risk and are flexible. There are innumerable static site generators today. Jekyll, Pelican and others. These do a simple job convert your markdown into html files for your site and blog. Some of them are fast, some of them have loads of plugins, some come built in with a host of features. Lektor on first glance appears to be yet another static site generator. 
+Static sites have grown in popularity off late and for a good reason. They are fast, pose no security risk and are flexible. There are innumerable static site generators today. Jekyll, Pelican and others. These do a simple job convert your markdown into html files for your site and blog. Some of them are fast, some of them have loads of plugins, some come built in with a host of features. Lektor(written in python) on first glance appears to be yet another static site generator. 
 
 And this is how Lektor describes itself 
 
