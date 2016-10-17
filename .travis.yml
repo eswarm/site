@@ -1,12 +1,7 @@
 language: python
 python: 2.7
-cache:
-  directories:
-    - $HOME/.cache/pip
-    - $HOME/.cache/lektor/builds
 install: "pip install git+https://github.com/lektor/lektor.git"
-script: "lektor clean"
-script: "lektor build -f webpack"
+script: "lektor clean && lektor build -f webpack"
 deploy:
   provider: script
   script: "lektor build && lektor deploy ghpages"
