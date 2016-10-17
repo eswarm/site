@@ -5,6 +5,7 @@ cache:
     - $HOME/.cache/pip
     - $HOME/.cache/lektor/builds
 install: "pip install git+https://github.com/lektor/lektor.git"
+script: "lektor clean"
 script: "lektor build -f webpack"
 deploy:
   provider: script
